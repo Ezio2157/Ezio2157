@@ -1,3 +1,6 @@
+<!--Banner image-->
+<img src="./Aarón Manzano Mateos.png" alt="Banner de Aarón Manzano Mateos" style="width:100%;">
+
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
