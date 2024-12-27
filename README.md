@@ -70,10 +70,24 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=anaconda,angular,bash,cpp,css,docker,flask,gcp,git,github,githubactions,html,java,js,latex,linux,md,mysql,postgres,py,sqlite,&perline=12" />
+    <img src="https://skillicons.dev/icons?i=angular,bash,cpp,css,docker,flask,gcp,git,github,githubactions,html,java,js,latex,linux,md,mysql,postgres,py,sqlite&perline=12" />
   </a>
 </p>
 
+
+
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Tools That I Use🔧</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=anaconda,clion,debian,discord,idea,kali,obsidian,pycharm,stackoverflow,ubuntu,vscode,webstorm,windows&perline=13" />
+  </a>
+</p>
 
 <!-- Connect with me -->
 <!--h2 without bottom border-->
